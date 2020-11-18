@@ -54,7 +54,7 @@ superuser: true
 I'm a passionate engineer in Statistics and Data Analysis, graduated from [ESSAI](http://www.essai.rnu.tn/en/) and holding a research master's degree in Data processing and Complexity of Living Systems from [ENIT](http://www.enit.rnu.tn/fr/home/indexfr.php) and 
 [Paris Descartes university](https://drive.google.com/file/d/1GHODY2FBoI9ZLopNlO3KEz4qOHhW73EO/view?usp=sharing).
 
-I'm a Data Scientist based in Tunis, Tunisia. I'm working in [the Banking industry](https://www.biat.com.tn/) with over 1 year of experience in Credit Risk management. I'm experienced in using data science tools like R, Python and SQL to build data solutions. 
+I'm a Data Scientist based in [Tunis, Tunisia](https://en.wikipedia.org/wiki/Tunisia). I'm working in [the Banking industry](https://www.biat.com.tn/) with over 1 year of experience in Credit Risk management. I'm experienced in using data science tools like R, Python and SQL to build data solutions. 
 
 I'm always involved in extracting insights from data using data analytics tools, embracing my engineering mindset in order to do something innovative with every challenging dataset and coming up with reproducible and verifiable results. I'm skilled in deploying big data and building statistical models using advanced techniques.
 

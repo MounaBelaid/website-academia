@@ -45,11 +45,9 @@ date_format = "Jan 2006"
   
    **Project : Construction of Internal Rating Models**
    
-   **Technologies : SAS, Oracle SQL**
-   
    **Tasks**
 
-  * Changed the execution of a set of scripts produced under SAS software to Oracle SQL
+  * Changed the execution of a set of scripts produced under a defined technology to Oracle SQL
   
   **Project : Creation of Dashboards for monitoring Corporate Credit Risk**
   

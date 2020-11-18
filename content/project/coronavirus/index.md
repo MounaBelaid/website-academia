@@ -20,5 +20,5 @@ url_slides: ""
 url_video: ""
 ---
 
-As the COVID_19 outbreak continues to evolve worldwide and particularly in my country Tunisia, I have created an application using RShiny tracking the situation of coronavirus. Please follow [this link](https://mounabelaid.shinyapps.io/coronavirus/).
+As the COVID_19 outbreak continues to evolve worldwide and particularly in my country [Tunisia](https://en.wikipedia.org/wiki/Tunisia), I have created an application using RShiny tracking the situation of coronavirus spread in Tunisia. Please follow [this link](https://mounabelaid.shinyapps.io/coronavirus/).
 
