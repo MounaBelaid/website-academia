@@ -27,27 +27,27 @@
 [[main]]
   name = "Certifications"
   url = "#certifications"
-  weight = 100
+  weight = 80
 
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 120
+  weight = 100
   
 [[main]]
   name = "Volunteer Experiences"
   url = "#volunteerexperiences"
-  weight = 140
+  weight = 120
   
 [[main]]
   name = "R-Ladies Tunis Experience"
   url = "#posts"
-  weight = 160
+  weight = 140
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 180
+  weight = 160
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
