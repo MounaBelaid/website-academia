@@ -28,11 +28,16 @@
   name = "Certifications"
   url = "#certifications"
   weight = 100
+
+[[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 120
   
 [[main]]
   name = "Volunteer Experiences"
   url = "#volunteerexperiences"
-  weight = 120
+  weight = 140
   
 [[main]]
   name = "R-Ladies Tunis Experience"
