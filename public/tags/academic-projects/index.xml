@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic projects | Mouna Belaid</title>
-    <link>https://mounabelaid.netlify.app/tags/academic-projects/</link>
-      <atom:link href="https://mounabelaid.netlify.app/tags/academic-projects/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/academic-projects/</link>
+      <atom:link href="/tags/academic-projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2020</copyright><lastBuildDate>Thu, 29 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Academic projects</title>
-      <link>https://mounabelaid.netlify.app/tags/academic-projects/</link>
+      <link>/tags/academic-projects/</link>
     </image>
     
     <item>
       <title>Brain Drain reasons analysis, Text Mining in Sociology</title>
-      <link>https://mounabelaid.netlify.app/project/braindrain/</link>
+      <link>/project/braindrain/</link>
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://mounabelaid.netlify.app/project/braindrain/</guid>
+      <guid>/project/braindrain/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://drive.google.com/file/d/1HiUm8a4vPK61Sc2kzC0T25psf-y9Nk8C/view?usp=drive_open&#34;&gt;project&lt;/a&gt; is about Brain Drain in Tunisia. A survey was conducted among
 Tunisian people in order to get answers of several questions about this topic. As a team, we are
 mainly interested in making analysis about two basic questions among all the questions being
@@ -40,9 +40,9 @@ answered :
     
     <item>
       <title>Analyzing Donald Trump inauguration speech</title>
-      <link>https://mounabelaid.netlify.app/project/donaldtrumpspeech/</link>
+      <link>/project/donaldtrumpspeech/</link>
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://mounabelaid.netlify.app/project/donaldtrumpspeech/</guid>
+      <guid>/project/donaldtrumpspeech/</guid>
       <description>&lt;p&gt;❝ January 20th, 2017 will be remerbered as the day the people became the rules of this nation again ❞ said Donald Trump. It was an unforgetable day for all the american people.&lt;/p&gt;
 &lt;p&gt;In this regard, I got the idea of analyzing the Donald Trump inauguration speech and I could not find a better software than R to obtain good results. I resort to Data Mining in order to create a wordcloud which resumes the main words said by the 45th President of the United States. Data Mining is one of the interesting techniques of exploring data. &lt;a href=&#34;https://rpubs.com/mounabelaid/243878&#34;&gt;See project&lt;/a&gt;&lt;/p&gt;
 </description>

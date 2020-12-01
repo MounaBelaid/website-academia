@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coding | Mouna Belaid</title>
-    <link>https://mounabelaid.netlify.app/tags/coding/</link>
-      <atom:link href="https://mounabelaid.netlify.app/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/coding/</link>
+      <atom:link href="/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <description>coding</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2020</copyright><lastBuildDate>Tue, 10 Nov 2020 23:53:10 +0200</lastBuildDate>
     <image>
-      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>coding</title>
-      <link>https://mounabelaid.netlify.app/tags/coding/</link>
+      <link>/tags/coding/</link>
     </image>
     
     <item>
       <title>R-Ladies Tunis</title>
-      <link>https://mounabelaid.netlify.app/post/r-ladies-tunis-meetups/</link>
+      <link>/post/r-ladies-tunis-meetups/</link>
       <pubDate>Tue, 10 Nov 2020 23:53:10 +0200</pubDate>
-      <guid>https://mounabelaid.netlify.app/post/r-ladies-tunis-meetups/</guid>
+      <guid>/post/r-ladies-tunis-meetups/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://rladies.org/tunisia-rladies/&#34;&gt;R-Ladies Tunis&lt;/a&gt; is a local chapter of &lt;a href=&#34;https://www.rladies.org&#34;&gt;R-Ladies Global&lt;/a&gt;, an organization that promotes gender diversity in the R community worldwide.&lt;/p&gt;
 &lt;p&gt;We are a group of Tunisian ladies passionate about R programming. We are from different backgrounds : data scientists, business analysts, bioinformaticians, biostatisticians, etc.&lt;/p&gt;
 &lt;p&gt;We aim meetup in person or virtually to learn about the R programming language, algorithms and advanced tools using R. You might keep an eye out for &lt;a href=&#34;https://www.meetup.com/rladies-tunis/&#34;&gt;our Meetup group&lt;/a&gt;.&lt;/p&gt;
