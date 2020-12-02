@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rstats | Mouna Belaid</title>
-    <link>/tags/rstats/</link>
-      <atom:link href="/tags/rstats/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mounabelaid.netlify.app/tags/rstats/</link>
+      <atom:link href="https://mounabelaid.netlify.app/tags/rstats/index.xml" rel="self" type="application/rss+xml" />
     <description>rstats</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2020</copyright><lastBuildDate>Tue, 10 Nov 2020 23:53:10 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 18:00:00 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
       <title>rstats</title>
-      <link>/tags/rstats/</link>
+      <link>https://mounabelaid.netlify.app/tags/rstats/</link>
     </image>
     
     <item>
+      <title>R-Ladies Freiburg year-end Meetup</title>
+      <link>https://mounabelaid.netlify.app/talk/r-ladies-freiburg-year-end-meetup/</link>
+      <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/r-ladies-freiburg-year-end-meetup/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy to deliver a talk about my journey into the development of &lt;a href=&#34;https://github.com/MounaBelaid/covid19tunisia&#34;&gt;the covid19tunisia R package&lt;/a&gt; on Tuesday, December 1st, 2020!&lt;/p&gt;
+&lt;p&gt;Thank you R-Ladies Freiburg for organizing such &lt;a href=&#34;https://www.meetup.com/rladies-freiburg/events/274391789/&#34;&gt;a meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://drive.google.com/file/d/11UtWxRPc6VzEKFZxuTGvXr7Ewbk7hXmC/view?usp=sharing&#34;&gt;link&lt;/a&gt; my slides.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R-Ladies Tunis</title>
-      <link>/post/r-ladies-tunis-meetups/</link>
+      <link>https://mounabelaid.netlify.app/post/r-ladies-tunis-meetups/</link>
       <pubDate>Tue, 10 Nov 2020 23:53:10 +0200</pubDate>
-      <guid>/post/r-ladies-tunis-meetups/</guid>
+      <guid>https://mounabelaid.netlify.app/post/r-ladies-tunis-meetups/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://rladies.org/tunisia-rladies/&#34;&gt;R-Ladies Tunis&lt;/a&gt; is a local chapter of &lt;a href=&#34;https://www.rladies.org&#34;&gt;R-Ladies Global&lt;/a&gt;, an organization that promotes gender diversity in the R community worldwide.&lt;/p&gt;
 &lt;p&gt;We are a group of Tunisian ladies passionate about R programming. We are from different backgrounds : data scientists, business analysts, bioinformaticians, biostatisticians, etc.&lt;/p&gt;
 &lt;p&gt;We aim meetup in person or virtually to learn about the R programming language, algorithms and advanced tools using R. You might keep an eye out for &lt;a href=&#34;https://www.meetup.com/rladies-tunis/&#34;&gt;our Meetup group&lt;/a&gt;.&lt;/p&gt;

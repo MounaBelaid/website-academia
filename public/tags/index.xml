@@ -2,85 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Mouna Belaid</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mounabelaid.netlify.app/tags/</link>
+      <atom:link href="https://mounabelaid.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2020</copyright><lastBuildDate>Tue, 10 Nov 2020 23:53:10 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 18:00:00 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://mounabelaid.netlify.app/tags/</link>
     </image>
     
     <item>
-      <title>coding</title>
-      <link>/tags/coding/</link>
-      <pubDate>Tue, 10 Nov 2020 23:53:10 +0200</pubDate>
-      <guid>/tags/coding/</guid>
+      <title>covid19</title>
+      <link>https://mounabelaid.netlify.app/tags/covid19/</link>
+      <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/covid19/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>datascience</title>
-      <link>/tags/datascience/</link>
-      <pubDate>Tue, 10 Nov 2020 23:53:10 +0200</pubDate>
-      <guid>/tags/datascience/</guid>
+      <title>covid19data</title>
+      <link>https://mounabelaid.netlify.app/tags/covid19data/</link>
+      <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/covid19data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>meetups</title>
-      <link>/tags/meetups/</link>
-      <pubDate>Tue, 10 Nov 2020 23:53:10 +0200</pubDate>
-      <guid>/tags/meetups/</guid>
+      <title>git</title>
+      <link>https://mounabelaid.netlify.app/tags/git/</link>
+      <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Rprogramming</title>
-      <link>/tags/rprogramming/</link>
-      <pubDate>Tue, 10 Nov 2020 23:53:10 +0200</pubDate>
-      <guid>/tags/rprogramming/</guid>
+      <title>github</title>
+      <link>https://mounabelaid.netlify.app/tags/github/</link>
+      <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rpackage</title>
+      <link>https://mounabelaid.netlify.app/tags/rpackage/</link>
+      <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/rpackage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rstats</title>
-      <link>/tags/rstats/</link>
+      <link>https://mounabelaid.netlify.app/tags/rstats/</link>
+      <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/rstats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coding</title>
+      <link>https://mounabelaid.netlify.app/tags/coding/</link>
       <pubDate>Tue, 10 Nov 2020 23:53:10 +0200</pubDate>
-      <guid>/tags/rstats/</guid>
+      <guid>https://mounabelaid.netlify.app/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datascience</title>
+      <link>https://mounabelaid.netlify.app/tags/datascience/</link>
+      <pubDate>Tue, 10 Nov 2020 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meetups</title>
+      <link>https://mounabelaid.netlify.app/tags/meetups/</link>
+      <pubDate>Tue, 10 Nov 2020 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/meetups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rprogramming</title>
+      <link>https://mounabelaid.netlify.app/tags/rprogramming/</link>
+      <pubDate>Tue, 10 Nov 2020 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/rprogramming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>workshop</title>
-      <link>/tags/workshop/</link>
+      <link>https://mounabelaid.netlify.app/tags/workshop/</link>
       <pubDate>Tue, 10 Nov 2020 23:53:10 +0200</pubDate>
-      <guid>/tags/workshop/</guid>
+      <guid>https://mounabelaid.netlify.app/tags/workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R packages</title>
-      <link>/tags/r-packages/</link>
+      <link>https://mounabelaid.netlify.app/tags/r-packages/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/r-packages/</guid>
+      <guid>https://mounabelaid.netlify.app/tags/r-packages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shiny Applications</title>
-      <link>/tags/shiny-applications/</link>
+      <link>https://mounabelaid.netlify.app/tags/shiny-applications/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/shiny-applications/</guid>
+      <guid>https://mounabelaid.netlify.app/tags/shiny-applications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic projects</title>
-      <link>/tags/academic-projects/</link>
+      <link>https://mounabelaid.netlify.app/tags/academic-projects/</link>
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/academic-projects/</guid>
+      <guid>https://mounabelaid.netlify.app/tags/academic-projects/</guid>
       <description></description>
     </item>
     

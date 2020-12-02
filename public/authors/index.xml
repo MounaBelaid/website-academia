@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Mouna Belaid</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mounabelaid.netlify.app/authors/</link>
+      <atom:link href="https://mounabelaid.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2020</copyright><lastBuildDate>Tue, 10 Nov 2020 23:53:10 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 18:00:00 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://mounabelaid.netlify.app/authors/</link>
     </image>
     
     <item>
+      <title>Mouna Belaid</title>
+      <link>https://mounabelaid.netlify.app/authors/mouna-belaid/</link>
+      <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/authors/mouna-belaid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mouna Belaid, R-Ladies Tunis co-organizer</title>
-      <link>/authors/mouna-belaid-r-ladies-tunis-co-organizer/</link>
+      <link>https://mounabelaid.netlify.app/authors/mouna-belaid-r-ladies-tunis-co-organizer/</link>
       <pubDate>Tue, 10 Nov 2020 23:53:10 +0200</pubDate>
-      <guid>/authors/mouna-belaid-r-ladies-tunis-co-organizer/</guid>
+      <guid>https://mounabelaid.netlify.app/authors/mouna-belaid-r-ladies-tunis-co-organizer/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://mounabelaid.netlify.app/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://mounabelaid.netlify.app/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a passionate engineer in Statistics and Data Analysis, graduated from &lt;a href=&#34;http://www.essai.rnu.tn/en/&#34;&gt;ESSAI&lt;/a&gt; and holding a research master&amp;rsquo;s degree in Data processing and Complexity of Living Systems from &lt;a href=&#34;http://www.enit.rnu.tn/fr/home/indexfr.php&#34;&gt;ENIT&lt;/a&gt; and 
 &lt;a href=&#34;https://drive.google.com/file/d/1GHODY2FBoI9ZLopNlO3KEz4qOHhW73EO/view?usp=sharing&#34;&gt;Paris Descartes university&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m a Data Scientist based in &lt;a href=&#34;https://en.wikipedia.org/wiki/Tunisia&#34;&gt;Tunis, Tunisia&lt;/a&gt;. I&amp;rsquo;m working in &lt;a href=&#34;https://www.biat.com.tn/&#34;&gt;the Banking industry&lt;/a&gt; with over 1 year of experience in Credit Risk management. I&amp;rsquo;m experienced in using data science tools like R, Python and SQL to build data solutions.&lt;/p&gt;

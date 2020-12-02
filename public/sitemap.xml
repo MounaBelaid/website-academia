@@ -3,160 +3,196 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://mounabelaid.netlify.app/authors/</loc>
+    <lastmod>2020-12-01T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/tags/covid19/</loc>
+    <lastmod>2020-12-01T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/tags/covid19data/</loc>
+    <lastmod>2020-12-01T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/tags/git/</loc>
+    <lastmod>2020-12-01T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/tags/github/</loc>
+    <lastmod>2020-12-01T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/authors/mouna-belaid/</loc>
+    <lastmod>2020-12-01T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/</loc>
+    <lastmod>2020-12-01T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/talk/r-ladies-freiburg-year-end-meetup/</loc>
+    <lastmod>2020-12-01T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/tags/rpackage/</loc>
+    <lastmod>2020-12-01T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/tags/rstats/</loc>
+    <lastmod>2020-12-01T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/tags/</loc>
+    <lastmod>2020-12-01T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/talk/</loc>
+    <lastmod>2020-12-01T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/categories/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://mounabelaid.netlify.app/tags/coding/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/coding/</loc>
+    <loc>https://mounabelaid.netlify.app/tags/datascience/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/datascience/</loc>
+    <loc>https://mounabelaid.netlify.app/categories/datascience/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/datascience/</loc>
+    <loc>https://mounabelaid.netlify.app/tags/meetups/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/meetups/</loc>
+    <loc>https://mounabelaid.netlify.app/authors/mouna-belaid-r-ladies-tunis-co-organizer/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://mounabelaid.netlify.app/post/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/mouna-belaid-r-ladies-tunis-co-organizer/</loc>
+    <loc>https://mounabelaid.netlify.app/post/r-ladies-tunis-meetups/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://mounabelaid.netlify.app/tags/rprogramming/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/r-ladies-tunis-meetups/</loc>
+    <loc>https://mounabelaid.netlify.app/categories/rprogramming/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/rprogramming/</loc>
+    <loc>https://mounabelaid.netlify.app/categories/rstats/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/rprogramming/</loc>
+    <loc>https://mounabelaid.netlify.app/tags/workshop/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/rstats/</loc>
+    <loc>https://mounabelaid.netlify.app/categories/workshop/</loc>
     <lastmod>2020-11-10T23:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/rstats/</loc>
-    <lastmod>2020-11-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-11-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/workshop/</loc>
-    <lastmod>2020-11-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/workshop/</loc>
-    <lastmod>2020-11-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/covid19tunisia/</loc>
+    <loc>https://mounabelaid.netlify.app/project/covid19tunisia/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://mounabelaid.netlify.app/project/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r-packages/</loc>
+    <loc>https://mounabelaid.netlify.app/tags/r-packages/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/shiny-applications/</loc>
+    <loc>https://mounabelaid.netlify.app/tags/shiny-applications/</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/coronavirus/</loc>
+    <loc>https://mounabelaid.netlify.app/project/coronavirus/</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://mounabelaid.netlify.app/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://mounabelaid.netlify.app/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/twittersentimentanalysis/</loc>
+    <loc>https://mounabelaid.netlify.app/project/twittersentimentanalysis/</loc>
     <lastmod>2017-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/academic-projects/</loc>
+    <loc>https://mounabelaid.netlify.app/tags/academic-projects/</loc>
     <lastmod>2017-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/braindrain/</loc>
+    <loc>https://mounabelaid.netlify.app/project/braindrain/</loc>
     <lastmod>2017-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/wordcloud/</loc>
+    <loc>https://mounabelaid.netlify.app/project/wordcloud/</loc>
     <lastmod>2017-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/donaldtrumpspeech/</loc>
+    <loc>https://mounabelaid.netlify.app/project/donaldtrumpspeech/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://mounabelaid.netlify.app/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+    <loc>https://mounabelaid.netlify.app/publication_types/</loc>
   </url>
   
 </urlset>
