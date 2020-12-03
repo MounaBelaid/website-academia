@@ -45,6 +45,6 @@ I'm happy to deliver a talk about my journey into the development of [the covid1
 
 Thank you R-Ladies Freiburg for organizing such [a meetup](https://www.meetup.com/rladies-freiburg/events/274391789/).
 
-Please find in the following [link](https://drive.google.com/file/d/11UtWxRPc6VzEKFZxuTGvXr7Ewbk7hXmC/view?usp=sharing) my slides.
+Please find in the following [link](https://drive.google.com/file/d/11UtWxRPc6VzEKFZxuTGvXr7Ewbk7hXmC/view?usp=sharing) my slides. You might also review [the recording video](https://www.youtube.com/watch?v=vDitGlt4WdA).
 
 
